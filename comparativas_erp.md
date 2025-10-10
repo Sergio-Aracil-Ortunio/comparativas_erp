@@ -1,10 +1,10 @@
 ## **Índice**
 
-- [Análisis de los ERPs elegidos](#analisis-de-los-erps-elegidos)
-- [Casos en los que elegirías esos ERPs](#casos-en-los-que-eligirias-esos-erps)
+- [Análisis de los ERPs elegidos](#análisis-de-los-erps-elegidos)
+- [Casos en los que elegirías esos ERPs](#casos-en-los-que-elegirías-esos-erps)
 - [Tabla Comparativa ERPs](#tabla-comparativa-erps)
-- [Conclusiones para el caso concreto(Elección de ERP y porque)](#conclusiones-para-el-caso-concreto(eleccion-de-erp-y-porque))
-- [Fuentes y evidencias Requisitos de documentación oficial/artículos técnicos y capturas con URL visible.](#fuentes-y-evidencias-requisitos-de-documentacion-oficial/articulos-tecnicos-y-capturas-con-url-visible)
+- [Conclusiones para el caso concreto(Elección de ERP y porque)](#conclusiones-para-el-caso-concretoelección-de-erp-y-porque)
+- [Fuentes y evidencias Requisitos de documentación oficial/artículos técnicos y capturas con URL visible.](#fuentes-y-evidencias-requisitos-de-documentación-oficialartículos-técnicos-y-capturas-con-url-visible)
 
 # Análisis de los ERPs elegidos
 
@@ -108,7 +108,6 @@ Este ERP es ideal para empresas pequeñas que quiern empezar sin hacer una gran 
 | Escalabilidad                    | Escalable, aunque para volúmenes muy grandes puede requerir infraestructura robusta.                                                   | Altísima escalabilidad gracias a la infraestructura de nube de Microsoft.                                      | Buena escalabilidad; SAP promueve que Business One “crece contigo”.                                                            |
 | Puntuación ponderada (opcional) | Personalizaciones complejas pueden requerir mucho desarrollo; soporte local puede depender del partner; en nube depender del proveedor. | Si se abusa de personalizaciones, la complejidad puede aumentar; dependencias de partner para implementaciones. | Costes iniciales altos; actualizaciones y migraciones pueden ser difíciles; rígido ante cambios radicales fuera del estándar. |
 
-
 # **Conclusiones para el caso concreto(Elección de ERP y porque)**
 
 Para este caso creo que lo más sensato es elegir Odoo Enterprise, ya que con este y sus módulos pueden registrar clientes sin duplicados y llevando historial de asistencias y pagos.
@@ -123,7 +122,6 @@ Se pueden establecer roles y permisos para la función de cada trabajador con un
 
 Con todo esto, al ser una empresa pequeña pueden tomar únicamente los módulos necesarios y si tienen previsto el crecimiento pueden ampliar los módulos como otros de marketing, además no tienen operaciones muy complejas como empresas más corporativas o financieras, por lo que creo que Odoo es la mejor elección siendo personalizable, más intuitivo y completo.
 
-
 # **Fuentes y evidencias Requisitos de documentación oficial/artículos técnicos y capturas con URL visible.**
 
 [Triangle.es](https://www.triangle.es/noticias/los-mejores-erp-para-pymes-en-espana/)
@@ -134,5 +132,17 @@ Con todo esto, al ser una empresa pequeña pueden tomar únicamente los módulos
 
 ![Odoo Guatemala](./asset/Odoo_Guatemala.png)
 
+[GetApp](https://www.getapp.es/software/90845/dynamics-365-business-central)
 
-Además he usado ChatGPT para las comparativas usando la información de estas páginas indicando comparaciones con las fuentes oficiales de cada ERP para sacar lo más fiel de cada artículo.
+![GetApp](./asset/GetApp.png)
+
+[todoerp](https://todoerp.com/sap/)
+
+![todoerp](./asset/todoerp.png)
+
+
+Además he usado [ChatGPT](https://chatgpt.com/) para las comparativas usando la información de estas páginas indicando comparaciones con las fuentes oficiales de cada ERP para sacar lo más fiel de cada artículo, aquí dejo los prompts usados:
+
+"Quiero que uses la información de esta fuente y las siguientes que te vaya pasando y compares y analices las erps que aparecen, compara la información con las fuentes oficiales de cada ERP https://www.triangle.es/noticias/los-mejores-erp-para-pymes-en-espana/"
+
+Con este prompt y la información recogida de las fuentes que busqué iba comparando para sacar la información más pura posible.
