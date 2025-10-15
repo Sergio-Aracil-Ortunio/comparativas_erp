@@ -18,7 +18,7 @@
 
    Índice del contenido del fichero comparativas_erp
 
-   - Análisis  de los ERPs elegidos
+   - [Análisis  de los ERPs elegidos](./comparativas_erp.md#análisis-de-los-erps-elegidos)
    - Casos en los que elegirías esos ERPs
    - Tabla Comparativa ERPs
    - Conclusiones para el caso concreto(Elección de ERP y porque)
