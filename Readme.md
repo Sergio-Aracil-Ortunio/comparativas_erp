@@ -22,4 +22,4 @@
    - [Casos en los que elegirías esos ERPs](./comparativas_erp.md#casos-en-los-que-elegirías-esos-erps)
    - [Tabla Comparativa ERPs](./comparativas_erp.md#tabla-comparativa-erps)
    - [Conclusiones para el caso concreto(Elección de ERP y porque)](./comparativas_erp.md#conclusiones-para-el-caso-concreto(elección-de-erp-y-porque))
-   - [Fuentes y evidencias Requisitos de documentación oficial/artículos técnicos y capturas con URL visible.](./comparativas_erp.md#fuentes-y-evidencias-requisitos-de-documentación-oficial/artículos-técnicos-y-capturas-con-url-visible)
+   - [Fuentes y evidencias Requisitos de documentación oficial/artículos técnicos y capturas con URL visible.](./comparativas_erp.md#fuentes-y-evidencias-requisitos-de-documentación-oficialartículos-técnicos-y-capturas-con-url-visible)
